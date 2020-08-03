@@ -42,6 +42,7 @@
                 android:gravity="center">
 
                 <LinearLayout
+                    android:gravity="center"
                     android:orientation="vertical"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -51,6 +52,13 @@
                         android:layout_width="80dp"
                         android:layout_height="75dp"
                         android:src="@drawable/co" />
+                    <TextView
+                        android:id="@+id/txtSmokeNodeOne"
+                        android:textStyle="bold"
+                        android:textSize="20sp"
+                        android:text="20%"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"/>
 
                     <TextView
                         android:text="SMOKE"
@@ -63,6 +71,7 @@
                 </LinearLayout>
 
                 <LinearLayout
+                    android:gravity="center"
                     android:orientation="vertical"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -72,7 +81,13 @@
                         android:layout_width="80dp"
                         android:layout_height="75dp"
                         android:src="@drawable/co11" />
-
+                    <TextView
+                        android:id="@+id/txtCoNodeOne"
+                        android:textStyle="bold"
+                        android:textSize="20sp"
+                        android:text="20%"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"/>
                     <TextView
                         android:text="CO"
                         android:textSize="18sp"
