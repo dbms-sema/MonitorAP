@@ -7,16 +7,11 @@
             android:title="Dashboard" />
         <item
             android:id="@+id/menu_lists"
-            android:title="Lists" />
+            android:title="Tips" />
         <item
             android:id="@+id/menu_topics"
-            android:title="Topics" />
-        <item
-            android:id="@+id/menu_bookmarks"
-            android:title="Bookmarks" />
-        <item
-            android:id="@+id/menu_moment"
-            android:title="Moments" />
+            android:title="Maps" />
+
 
     </group>
     <item android:title="Help">
@@ -24,9 +19,6 @@
             <item
                 android:id="@+id/menu_settings"
                 android:title="Settings and privacy" />
-            <item
-                android:id="@+id/menu_helpcenter"
-                android:title="Help center" />
 
         </menu>
     </item>
