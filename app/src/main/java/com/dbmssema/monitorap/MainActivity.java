@@ -77,7 +77,7 @@ public class MainActivity extends AppCompatActivity {
                     case R.id.maps:{
                         getSupportFragmentManager()
                                 .beginTransaction()
-                                .replace(R.id.framelayout, new MapsFragment())
+                                .replace(R.id.framelayout, new MapFragment())
                                 .addToBackStack(null)
                                 .commit();
                         break;
