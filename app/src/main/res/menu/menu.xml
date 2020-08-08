@@ -9,7 +9,7 @@
             android:id="@+id/menu_lists"
             android:title="Tips" />
         <item
-            android:id="@+id/menu_topics"
+            android:id="@+id/menu_maps"
             android:title="Maps" />
 
 

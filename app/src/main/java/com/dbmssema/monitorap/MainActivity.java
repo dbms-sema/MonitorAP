@@ -117,10 +117,10 @@ public class MainActivity extends AppCompatActivity {
                                 .commit();
                         break;
                     }
-                    case R.id.menu_settings:{
+                    case R.id.menu_maps:{
                         getSupportFragmentManager()
                                 .beginTransaction()
-                                .replace(R.id.framelayout, new MapsFragment())
+                                .replace(R.id.framelayout, new MapFragment())
                                 .addToBackStack(null)
                                 .commit();
                         break;

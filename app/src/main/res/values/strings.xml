@@ -5,5 +5,24 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="goodAir">
+        What is the AQI? The AQI is an index for reporting daily air quality. It tells you how clean
+        or unhealthy your air is, and what associated health effects might be a concern. \n\n The AQI
+        focuses on health affects you may experience within a few hours or days after breathing
+        unhealthy air. The AQI is calculated for four major air pollutants regulated by the Clean
+        Air Act: groundlevel ozone, particle pollution, carbon monoxide, and sulfur dioxide. \n\n For
+        each of these pollutants, EPA has established national air quality standards to protect
+        public health. EPA is currently reviewing the national air quality standard for
+        nitrogen dioxide. If the standard is revised, the AQI will be revised as well. \n\n
+
+  Good. \n
+        The AQI value for your community is between 0 and 50. Air quality is satisfactory and poses
+        little or no health risk.
+
+
+
+
+
+    </string>
 </resources>
 

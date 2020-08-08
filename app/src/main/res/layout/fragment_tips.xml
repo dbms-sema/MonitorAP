@@ -61,6 +61,7 @@
                 </LinearLayout>
         </androidx.cardview.widget.CardView>
         <androidx.cardview.widget.CardView
+            android:id="@+id/moderateAir"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_columnWeight="2"
@@ -88,6 +89,7 @@
             </LinearLayout>
         </androidx.cardview.widget.CardView>
         <androidx.cardview.widget.CardView
+            android:id="@+id/unsatisfactoryAir"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_columnWeight="2"
@@ -115,6 +117,7 @@
             </LinearLayout>
         </androidx.cardview.widget.CardView>
         <androidx.cardview.widget.CardView
+            android:id="@+id/unhealthyAir"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_columnWeight="2"
@@ -142,6 +145,7 @@
             </LinearLayout>
         </androidx.cardview.widget.CardView>
         <androidx.cardview.widget.CardView
+            android:id="@+id/veryUnhealthyAir"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_columnWeight="2"
@@ -169,6 +173,7 @@
             </LinearLayout>
         </androidx.cardview.widget.CardView>
         <androidx.cardview.widget.CardView
+            android:id="@+id/hazardousAir"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_columnWeight="2"
